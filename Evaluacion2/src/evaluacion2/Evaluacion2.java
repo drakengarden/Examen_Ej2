@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package evolucionunidad2;
+package evaluacion2;
 
 /**
  *
  * @author labc205
  */
-public class EvolucionUnidad2 {
+public class Evaluacion2 {
 
     /**
      * @param args the command line arguments
